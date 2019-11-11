@@ -10,7 +10,7 @@ namespace gasolinera
     {
         static void Main(string[] args)
         {
-            //jsjssjssjsj
+            //jsjssjss
         }
     }
 }
